@@ -1,0 +1,23 @@
+ @media (min-width: 768px) {
+	div.collapse > ul {
+		display: none;
+	} 
+
+}
+#paragraph {
+	height: 1000px;
+	background-color: #eee;
+	font-size: 1.2em;
+	padding-top: 20px;
+	margin-top: 30px;
+}
+#menubar {
+	background-color: #788779;
+}
+body {
+	background-color: #e5e0db;
+}
+.navbar-brand {
+	font-size: 2em;
+	font-weight: bold;
+}
